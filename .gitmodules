@@ -1,0 +1,7 @@
+[submodule "Jasonwbaxter.github.io/anatole"]
+	path = Jasonwbaxter.github.io/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "Jasonwbaxter.github.io/public"]
+	path = Jasonwbaxter.github.io/public
+	url = https://github.com/jasonwbaxter/Jasonwbaxter.github.io.git
+	branch = main
