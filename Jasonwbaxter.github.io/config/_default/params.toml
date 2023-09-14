@@ -1,7 +1,6 @@
-
 title = "I'm Jason Baxter"
 author = "Jason Baxter"
-#copyright = "2023-2050"
+#copyright = "2023-{{ YEAR }}"
 description = "Call me Jane"
 profilePicture = "images/profile.jpg"
 keywords = ""
